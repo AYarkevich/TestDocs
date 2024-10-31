@@ -2,7 +2,7 @@
   "API/FirstProject.BaseClass.html": {
     "href": "API/FirstProject.BaseClass.html",
     "title": "Class BaseClass | Docs",
-    "keywords": "Class BaseClass Namespace FirstProject Assembly FirstProject.dll Base class public class BaseClass Inheritance object BaseClass Derived SomeClass Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties BaseProperty Base property public string? BaseProperty { get; set; } Property Value string BaseProperty2 Base property 2 public int BaseProperty2 { get; set; } Property Value int"
+    "keywords": "Class BaseClass Namespace FirstProject Assembly FirstProject.dll Base class public class BaseClass Inheritance object BaseClass Derived SomeClass Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Examples This shows how to increment an integer. var index = 5; index++; Remarks Test remarks Properties BaseProperty Base property public string? BaseProperty { get; set; } Property Value string BaseProperty2 Base property 2 public int BaseProperty2 { get; set; } Property Value int"
   },
   "API/FirstProject.SomeClass.html": {
     "href": "API/FirstProject.SomeClass.html",
