@@ -12,7 +12,8 @@
           ]
         }
       ],
-      "dest": "API"
+      "dest": "API",
+      "basePath": "/TestDocs"
     }
   ],
   "build": {
