@@ -13,4 +13,9 @@ public class SomeClass : BaseClass
     {
         
     }
+    
+    /// <summary>
+    /// NullableString
+    /// </summary>
+    public string? NullableString { get; set; }
 }
