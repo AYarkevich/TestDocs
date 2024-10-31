@@ -11,6 +11,109 @@
       }
     },
     {
+      "type": "ManagedReference",
+      "source_relative_path": "API/FirstProject.BaseClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/FirstProject.BaseClass.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/FirstProject.SomeClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/FirstProject.SomeClass.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/FirstProject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/FirstProject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/SecondProject.EnumType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/SecondProject.EnumType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/SecondProject.FirstClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/SecondProject.FirstClass.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/SecondProject.SecondClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/SecondProject.SecondClass.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/SecondProject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/SecondProject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/TestDocs.DocClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/TestDocs.DocClass.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "API/TestDocs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "API/TestDocs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "API/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "API/toc.json"
+        },
+        ".html": {
+          "relative_path": "API/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "Docs/getting-started.md",
       "output": {

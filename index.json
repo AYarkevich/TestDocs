@@ -1,4 +1,49 @@
 {
+  "API/FirstProject.BaseClass.html": {
+    "href": "API/FirstProject.BaseClass.html",
+    "title": "Class BaseClass | Docs",
+    "keywords": "Class BaseClass Namespace FirstProject Assembly FirstProject.dll Base class public class BaseClass Inheritance object BaseClass Derived SomeClass Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties BaseProperty Base property public string? BaseProperty { get; set; } Property Value string BaseProperty2 Base property 2 public int BaseProperty2 { get; set; } Property Value int"
+  },
+  "API/FirstProject.SomeClass.html": {
+    "href": "API/FirstProject.SomeClass.html",
+    "title": "Class SomeClass | Docs",
+    "keywords": "Class SomeClass Namespace FirstProject Assembly FirstProject.dll Some class public class SomeClass : BaseClass Inheritance object BaseClass SomeClass Inherited Members BaseClass.BaseProperty BaseClass.BaseProperty2 object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors SomeClass(string) Constructor public SomeClass(string arg) Parameters arg string Parameter Properties NullableString NullableString public string? NullableString { get; set; } Property Value string"
+  },
+  "API/FirstProject.html": {
+    "href": "API/FirstProject.html",
+    "title": "Namespace FirstProject | Docs",
+    "keywords": "Namespace FirstProject Classes BaseClass Base class SomeClass Some class"
+  },
+  "API/SecondProject.EnumType.html": {
+    "href": "API/SecondProject.EnumType.html",
+    "title": "Enum EnumType | Docs",
+    "keywords": "Enum EnumType Namespace SecondProject Assembly SecondProject.dll EnumType public enum EnumType Fields Fifth = 4 Fifth First = 0 First Fourth = 3 Fourth Second = 1 Second Third = 2 Third"
+  },
+  "API/SecondProject.FirstClass.html": {
+    "href": "API/SecondProject.FirstClass.html",
+    "title": "Class FirstClass | Docs",
+    "keywords": "Class FirstClass Namespace SecondProject Assembly SecondProject.dll Summary comment public class FirstClass Inheritance object FirstClass Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties BoolProperty Boolean property public bool BoolProperty { get; set; } Property Value bool StringProperty Boolean property public string? StringProperty { get; set; } Property Value string Methods Method(int, int) Method public void Method(int first, int second) Parameters first int First parameter second int Second parameter"
+  },
+  "API/SecondProject.SecondClass.html": {
+    "href": "API/SecondProject.SecondClass.html",
+    "title": "Class SecondClass | Docs",
+    "keywords": "Class SecondClass Namespace SecondProject Assembly SecondProject.dll public class SecondClass Inheritance object SecondClass Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties BoolProperty Boolean property public bool BoolProperty { get; set; } Property Value bool StringProperty Boolean property public string? StringProperty { get; set; } Property Value string Methods Method(int, int) Method public void Method(int first, int second) Parameters first int First parameter second int Second parameter"
+  },
+  "API/SecondProject.html": {
+    "href": "API/SecondProject.html",
+    "title": "Namespace SecondProject | Docs",
+    "keywords": "Namespace SecondProject Classes FirstClass Summary comment SecondClass Enums EnumType EnumType"
+  },
+  "API/TestDocs.DocClass.html": {
+    "href": "API/TestDocs.DocClass.html",
+    "title": "Class DocClass | Docs",
+    "keywords": "Class DocClass Namespace TestDocs Assembly TestDocs.dll Test class for testing docs public class DocClass Inheritance object DocClass Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties BoolProperty Test Boolean property public bool BoolProperty { get; set; } Property Value bool FloatProperty Test Float property public bool FloatProperty { get; set; } Property Value bool IntegerProperty Test Integer property public bool IntegerProperty { get; set; } Property Value bool StringProperty Test String property public string? StringProperty { get; set; } Property Value string Methods MethodReturnsInteger() This method without params returns integer public int MethodReturnsInteger() Returns int Just integer value MethodWithParams(int, int) This method with parameters public void MethodWithParams(int arg1, int arg2) Parameters arg1 int First parameter arg2 int Second parameter MethodWithParamsReturnsObject(int, int) This method with parameters returns object public object MethodWithParamsReturnsObject(int arg1, int arg2) Parameters arg1 int First parameter arg2 int Second parameter Returns object MethodWithoutParams() This method without params public void MethodWithoutParams()"
+  },
+  "API/TestDocs.html": {
+    "href": "API/TestDocs.html",
+    "title": "Namespace TestDocs | Docs",
+    "keywords": "Namespace TestDocs Classes DocClass Test class for testing docs"
+  },
   "Docs/getting-started.html": {
     "href": "Docs/getting-started.html",
     "title": "Getting Started | Docs",
